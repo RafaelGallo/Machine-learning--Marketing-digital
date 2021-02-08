@@ -18,4 +18,4 @@ Modelo campanha IBM Watson.
 
 
 
-![M.L MD](https://github.com/RafaelGallo/Machine-learning---Marketing-digital/blob/main/P/N1.jpg)
+![M.L MD](https://github.com/RafaelGallo/Machine-learning--Marketing-digital/blob/main/P/N1.jpg)
