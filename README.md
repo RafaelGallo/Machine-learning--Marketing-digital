@@ -41,8 +41,8 @@ Nesse projeto aplicado machine learning alguns projetos que eu fiz, aplicado com
 Objetivo desse projeto e pôr os conhecimento práticos de machine learning. 
 
 ## Projeto realizado
-- **1 - Modelo de machine learning previsãoes campanha**
-- **2 - Modelo M.L previsão campanhas**
+- **1 - Modelo de machine learning previsãoes campanha - Google analytics e-commerce**
+- **2 - Modelo M.L previsão campanhas IBM**
 
 
 ## Stack utilizada
